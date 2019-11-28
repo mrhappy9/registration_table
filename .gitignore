@@ -1,0 +1,10 @@
+
+*.xml
+*.iml
+*.kotlin_module
+*.class
+*.html
+registations_sammit/out/production/3MAINGUI3OOP/sample/admin.fxml
+registations_sammit/out/production/3MAINGUI3OOP/sample/sammit.fxml
+registations_sammit/out/production/3MAINGUI3OOP/sample/sign_up.fxml
+registations_sammit/out/production/3MAINGUI3OOP/sample/sample.fxml
