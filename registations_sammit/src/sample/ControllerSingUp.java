@@ -79,7 +79,7 @@ public class ControllerSingUp extends Main{
         String test = "";
         String extra_test = "";
 
-        //Проверка имени
+        //Проверка имени пол
         Pattern pattern = Pattern.compile("^[A-Za-zА-яа-я]+$");
         Matcher matcher = pattern.matcher(name);
         while(matcher.find())
